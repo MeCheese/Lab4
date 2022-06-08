@@ -1,4 +1,4 @@
-package com.example.lab4;
+package pl.lublin.wsei.java.cwiczenia.lab4;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
